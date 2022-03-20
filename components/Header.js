@@ -7,7 +7,7 @@ const Header = () => {
     <Menu style = {{ marginTop: "10px"}}>
 
         <Link href="/">
-          <a className='item'>CrowdCoin</a>
+          <a className='item'>GenuineFund</a>
         </Link>
         <Menu.Menu position='right'>
           <Link href="/">
